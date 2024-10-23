@@ -1,2 +1,4 @@
-# Coffee-Shop-Sales-Analysis-Dashboard-
-I developed a compressive project in Excel, creating multiple dashboards and tables to analyze the data. The process involved several stages, including Data cleaning, Standardizing of the data, and data visualization 
+#Coffee_Shop-Sales-Analysis (Interactive Dashboard creation using MS Excel)
+##Project Objective
+The Shop wants to determine their sales performance at their various branches, so the owner of Coffee shop can better understand and make better decisions in their business
+
