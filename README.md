@@ -48,10 +48,13 @@ There is a steady increase in Total revenue through the months at all store Loca
 
 **Final Conclusion:**
 To improve the coffee shop business at each location, a specific strategic marketing plan need to be design for each of the location the Coffee shop are stationed
+
 -Location: Astoria
   A strategic marketing plan should be focused Mon, Wed, Fri are the days when transactions is at their peak at the hour of 7 – 10 am.
+
 -Location: Hell's Kitchen
   A strategic marketing plan should be focused Tue, Fri are the days when transactions is at their peak at the hour of 8 – 10 am. Since transaction evenly distributed on Mon, Wed, Thur     and Sun Marketing strategies such as promo or discount can be used to increase sales of both fast-moving product and slow-moving product
+
 -Location: Lower Manhattan
   Highest transaction was recorded on Mon. A strategic marketing plan should be focused on the rest of the weekdays to improve the average transaction rate and the hour are between 7 –     10am.
 
